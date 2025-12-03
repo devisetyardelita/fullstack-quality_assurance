@@ -57,7 +57,7 @@ Follow these steps to set up and run the Laravel project. The instructions assum
   <li>
       Clone the Repository:
       
-      git clone https://github.com/devisetyardelita/fullstack-quality_assurance/tree/main/student-transfer
+      git clone https://github.com/devisetyardelita/fullstack-quality_assurance.git
         
   </li>
   <li>

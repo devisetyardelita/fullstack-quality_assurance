@@ -1,14 +1,13 @@
 # Public Services Platform (2024) 
 
 <p align="center">
-  <img src="build/assets/Logo.png" alt="Logo" style="height: 250; width: auto;">
+  <img src="public/assets/Logo.png" alt="Logo" width="400">
 </p>
 
-**Role:** Software Engineer  
-**Focus:** System architecture, ERD, Use Case, Activity Diagram  
+**Role:** Software Engineer    
 
 ## About SINOVACE
-Platform for public service system for education department.
+SINOVACE or The Education Service System is a web-based platform designed to manage and streamline administrative education processes for the local education office, serving as a public service system for the Education Department in Depok City.
 - Developed a public service web application for the Depok City Education Department.
 - Collected and analyzed business requirements and modeled business processes for education service systems.
 - Designed workflows, ERD, and UI wireframes aligned with user needs.

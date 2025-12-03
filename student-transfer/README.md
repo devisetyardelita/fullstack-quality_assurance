@@ -4,12 +4,14 @@
 **Focus:** System architecture, ERD, Use Case, Activity Diagram  
 
 ## Documentation
+- `Fitur.pdf` [view](https://drive.google.com/file/d/1e5TADsvm29skNVu7_BbVVUZax_e4yf1G/view?usp=sharing)
 - `Use-Case.jpg`[view](https://drive.google.com/file/d/1tJJtuSXcp3OzihKYl0ZXQEgejabq8fUT/view?usp=sharing)  
 - `ERD.jpg` [view](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  
 - `Activity-Diagram.jpg` [view](https://drive.google.com/drive/folders/16Il0-LCdUaRu7mtyEXbahHuiXLafgMDU?usp=sharing) 
 - `UI User.jpg` [view](https://drive.google.com/file/d/1-iFrGdiigGZkcTOwaMsWTOe3VwE5N-eN/view?usp=sharing)  
 - `UI Admin.jpg` [view](https://drive.google.com/file/d/1rRMZGF9PL5SbWNiZlzfiEAGqHhceTVpp/view?usp=sharing)
-- `Final Report.pdf` [view](https://drive.google.com/file/d/1EBTJ44PPkhMzrYgaFVDa6HpxshcFSSqQ/view?usp=sharing) 
+- `Final Report.pdf` [view](https://drive.google.com/file/d/1EBTJ44PPkhMzrYgaFVDa6HpxshcFSSqQ/view?usp=sharing)
+- `Timeline.odf` [view](https://drive.google.com/file/d/1NLi8FtlgNYeCGdhwlhPy-MiOPY074Afy/view?usp=sharing)
 
 ## Description
 Platform for automating student transfers, improving workflow and reducing manual paperwork.

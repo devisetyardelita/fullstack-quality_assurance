@@ -1,7 +1,6 @@
 # Student Transfer Platform (2025) 
 
-**Role:** Software Engineer  
-**Focus:** System architecture, ERD, Use Case, Activity Diagram  
+**Role:** Software Engineer   
 
 ## About Student Transfer Energis
 Platform for automating student transfers, improving workflow and reducing manual paperwork.

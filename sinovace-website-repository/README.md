@@ -4,8 +4,7 @@
   <img src="public/assets/Logo.png" alt="Logo" width="400">
 </p>
 
-**Role:** Software Engineer  
-**Focus:** System architecture, ERD, Use Case, Activity Diagram  
+**Role:** Software Engineer    
 
 ## About SINOVACE
 SINOVACE or The Education Service System is a web-based platform designed to manage and streamline administrative education processes for the local education office, serving as a public service system for the Education Department in Depok City.

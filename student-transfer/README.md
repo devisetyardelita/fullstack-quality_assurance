@@ -1,5 +1,8 @@
 # Student Transfer Platform (2025) 
 
+<p align="center">
+    <img src="public/img/Beranda.png" width="250" alt="Homepage">
+</p>
 **Role:** Software Engineer   
 
 ## About Student Transfer Energis

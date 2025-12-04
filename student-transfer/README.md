@@ -19,8 +19,9 @@ Platform for automating student transfers, improving workflow and reducing manua
 - `Activity-Diagram.jpg` [view](https://drive.google.com/drive/folders/16Il0-LCdUaRu7mtyEXbahHuiXLafgMDU?usp=sharing) 
 - `UI User.jpg` [view](https://drive.google.com/file/d/1-iFrGdiigGZkcTOwaMsWTOe3VwE5N-eN/view?usp=sharing)  
 - `UI Admin.jpg` [view](https://drive.google.com/file/d/1rRMZGF9PL5SbWNiZlzfiEAGqHhceTVpp/view?usp=sharing)
+- `Test Case` [view](https://docs.google.com/spreadsheets/d/1Slr0uFdI9r_Qb8I9xNo16JfxMA5w9F4UfP1QeZjOGYQ/edit?usp=sharing)
 - `Final Report.pdf` [view](https://drive.google.com/file/d/1EBTJ44PPkhMzrYgaFVDa6HpxshcFSSqQ/view?usp=sharing)
-- `Timeline.odf` [view](https://drive.google.com/file/d/1NLi8FtlgNYeCGdhwlhPy-MiOPY074Afy/view?usp=sharing)
+- `Timeline.pdf` [view](https://drive.google.com/file/d/1NLi8FtlgNYeCGdhwlhPy-MiOPY074Afy/view?usp=sharing)
 
 
 ## What I use?

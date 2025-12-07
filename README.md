@@ -9,7 +9,6 @@ Projects where I implemented or contributed to the system development and techni
   Focus: Workflow documentation, functional specifications, UAT reports
 
 
----
 ## What I use?
 <p align="center">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="250">
@@ -68,12 +67,10 @@ Follow these steps to set up and run the Laravel project. The instructions assum
   This will launch the server, and you can access the application in your web browser at http://localhost:8000. Make sure to update the URL/port accordingly if the default settings are different.
 </ol>
 
----
 
 ## 📜 Achievements & Certification
 - **2025:** Software Engineer Level 6, BNSP National Certification  [view certification](https://drive.google.com/file/d/1WwHUiFR_4_52EMofxgditMMlKPujsRTq/view?usp=sharing)  
 
----
 
   ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/devisetyardelita](https://www.linkedin.com/in/devisetyardelita)  

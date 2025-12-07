@@ -75,15 +75,6 @@ Follow these steps to set up and run the Laravel project. The instructions assum
 
 ---
 
-## 🛠 Skills & Tools
-- **Documentation & Analysis:** BRD, Functional Specs, Flowchart, ERD, Activity Diagram  
-- **Technical:** PHP (Laravel), JavaScript, MySQL, Web Systems  
-- **Project Management:** JIRA, Notion, Focalboard, Google Workspace  
-- **Design & Visualization:** Figma, Draw.io, Motion Graphic Tools  
-- **Soft Skills:** Communication, Coordination, Problem Solving, Attention to Detail  
-
----
-
   ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/devisetyardelita](https://www.linkedin.com/in/devisetyardelita)  
 - Email: ardelitadevisetyardelita@gmail.com  

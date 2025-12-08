@@ -19,8 +19,7 @@ SINOVACE or The Education Service System is a web-based platform designed to man
 - `Fitur` [view](https://drive.google.com/file/d/1WIgkqpjjvckEmL4bP8cQp3crGMNJwhDO/view?usp=sharing)
 - `UML`: [`Figma`](https://www.figma.com/design/5tJ2XpaKoHwJfP2ctz90nm/My-Portfolio?m=auto&t=8lxhfYCoabDKCeZH-1)[`Use-Case.jpg`](https://drive.google.com/file/d/1pn6g9NYYq3rvexJLLFJGB_vB4vrH1K3x/view?usp=sharing) [`ERD.jpg`](https://drive.google.com/file/d/1zmSyx80U1_77TsAd9dmsKVrP_7GlVl75/view?usp=sharing)  [`Activity-Diagram.jpg`](https://drive.google.com/file/d/1XuwRUZMoeiIqxdWXJN2sunva0dNu30-r/view?usp=sharing) 
 - `UI.pdf` [view](https://drive.google.com/file/d/1dFPmDY6VN3befBXVO4_ijHap3kXvX-3S/view?usp=sharing)  
-- `Timeline.jpg` [view](https://drive.google.com/file/d/1zSvIRof-z3RSq8UYM5Q62tFT10LSjK_A/view?usp=sharing)
-- `Test case`[view](https://docs.google.com/spreadsheets/d/1CSGCrO2CBGznqYSZ4afi8ssEeA_Dq8HTxqOAKFGPSu0/edit?usp=sharing)
+- `Testing`[view](https://docs.google.com/spreadsheets/d/1CSGCrO2CBGznqYSZ4afi8ssEeA_Dq8HTxqOAKFGPSu0/edit?usp=sharing)
 - `Report.pdf` [view](https://drive.google.com/file/d/1020b5dvoUw0pBes0InBHq_R7w81CdwnO/view?usp=sharing)
 - `TImeline` [view](https://drive.google.com/file/d/11E1egKAJU6iSgrneAxJZ6f2NPoQm_lOs/view?usp=sharing)
 
